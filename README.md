@@ -7,7 +7,7 @@ Requirements:
  
 Usage:
     python3 ktx_folder_to_png.py /path/to/source_folder [/path/to/dest_folder]
-    Where
+Where
     - ktx_folder_to_png.py = The file name
     - /path/to/source_folder = The unzipped appres folder for the script to look for ktx files on
     - /path/to/dest_folder = What folder to write the converted png files, although u can leave this blank
